@@ -1,2 +1,4 @@
-# Zen-TV
-ZenOS is TV.
+# Zen TV
+I make ZenOS TV
+## Install
+read here: INSTALL.MD
